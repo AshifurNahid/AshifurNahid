@@ -15,7 +15,6 @@ I am Ashifur Rahman Nahid, passionate about writing code, solving problems, auto
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshifurNahid&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AshifurNahid&icon=2&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=AshifurNahid&label=Profile%20Views&color=4&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

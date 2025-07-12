@@ -52,9 +52,7 @@ I'm a passionate **Full-Stack Java Developer** and **Problem Solver** who loves 
   <img src="https://github-readme-stats.vercel.app/api?username=AshifurNahid&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AshifurNahid&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshifurNahid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />

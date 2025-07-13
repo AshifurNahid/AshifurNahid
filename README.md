@@ -58,10 +58,7 @@ I'm a passionate **Full-Stack Java Developer** and **Problem Solver** who loves 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshifurNahid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AshifurNahid&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
+
 
 ## 🔥 Contribution Graph
 <div align="center">

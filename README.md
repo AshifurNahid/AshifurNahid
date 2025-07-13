@@ -60,10 +60,6 @@ I'm a passionate **Full-Stack Java Developer** and **Problem Solver** who loves 
 
 
 
-## 🔥 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshifurNahid&theme=github-compact&hide_border=true" alt="Contribution Graph" />
-</div>
 
 ## 💡 Random Dev Quote
 <div align="center">

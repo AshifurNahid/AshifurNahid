@@ -89,9 +89,7 @@ I'm a passionate **Full-Stack Java Developer** and **Problem Solver** who loves 
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AshifurNahid&label=Profile%20Views&color=0&icon=0&pretty=false" alt="Profile Views" />
-</div>
+
 
 <div align="center">
   <h3>💫 Thanks for visiting my profile!</h3>
